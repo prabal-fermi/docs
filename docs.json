@@ -32,18 +32,28 @@
         }
       ]
     },
-    "versions": [
+    "products": [
       {
-        "version": "Untitled Version",
-        "pages": [
+        "product": "Untitled Product",
+        "tabs": [
           {
-            "group": "Getting Started",
-            "pages": [
-              "index",
-              "quickstart"
+            "tab": "Untitled Tab",
+            "versions": [
+              {
+                "version": "Untitled Version",
+                "pages": [
+                  {
+                    "group": "Getting Started",
+                    "pages": [
+                      "index",
+                      "quickstart"
+                    ]
+                  },
+                  "untitled-page"
+                ]
+              }
             ]
-          },
-          "untitled-page"
+          }
         ]
       }
     ]
